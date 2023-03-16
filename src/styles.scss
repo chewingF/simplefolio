@@ -1,18 +1,18 @@
 @import "./sass/vendors/bootstrap.scss";
 
-@import "./sass/abstracts/mixins";
-@import "./sass/abstracts/variables";
-@import "./sass/abstracts/helpers";
+@import "./sass/abstracts/mixins.scss";
+@import "./sass/abstracts/variables.scss";
+@import "./sass/abstracts/helpers.scss";
 
-@import "./sass/base/base";
-@import "./sass/base/typography";
+@import "./sass/base/base.scss";
+@import "./sass/base/typography.scss";
 
-@import "./sass/components/buttons";
+@import "./sass/components/buttons.scss";
 
-@import "./sass/layout/footer";
-@import "./sass/layout/sections";
+@import "./sass/layout/footer.scss";
+@import "./sass/layout/sections.scss";
 
-@import "./sass/sections/about";
-@import "./sass/sections/contact";
-@import "./sass/sections/hero";
-@import "./sass/sections/projects";
+@import "./sass/sections/about.scss";
+@import "./sass/sections/contact.scss";
+@import "./sass/sections/hero.scss";
+@import "./sass/sections/projects.scss";

@@ -55,7 +55,7 @@ From your command line, first clone Simplefolio:
 
 ```bash
 # Clone the repository
-$ git clone https://github.com/cobiwave/simplefolio
+$ git clone https://github.com/chewingF/simplefolio
 
 # Move into the repository
 $ cd simplefolio
